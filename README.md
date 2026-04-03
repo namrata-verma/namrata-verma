@@ -24,7 +24,7 @@ Strategic PMO & digital transformation practitioner with hands-on experience del
 
 ## 🧠 Professional Experience
 
-### BSH-Hausgeräte, Regensburg, Deutschland (PMO Working Student)
+### BSH-Hausgeräte, Germany (PMO)
 
 09/2025 - 03/2026
 
@@ -34,7 +34,7 @@ Strategic PMO & digital transformation practitioner with hands-on experience del
 - Led continuous-improvement sessions: risk review workshops + retrospectives.
 - Launched AI-powered training content with Synthesia for faster tooling adoption.
 
-### Krones AG, Neutraubling, Deutschland (Digital Transformation & Project Management)
+### Krones AG, Germany (Digital Transformation & Project Management)
 
 03/2025 - 01/2026
 
@@ -45,7 +45,7 @@ Strategic PMO & digital transformation practitioner with hands-on experience del
 - Delivered 100+ SAP Enable Now training modules and centralized process maps in ADONIS + ReqSuite.
 - Sustained global Kanban alignment across production, logistics, warehouse.
 
-### B-Horizon GmbH, Sinzing, Deutschland (Social Media Marketing)
+### B-Horizon GmbH, Germany (Social Media Marketing)
 
 02/2025 - 04/2025
 
@@ -76,7 +76,7 @@ Strategic PMO & digital transformation practitioner with hands-on experience del
 
 ## 📌 Open to
 
-- PMO / Program Coordination roles
-- Digital transformation and process automation initiatives
-- Data analytics + visualization ownership
-- Cross-border team delivery in Europe
+- Project Managemnt or Program Management
+- Digital transformation
+- Analyst
+- Consultant
