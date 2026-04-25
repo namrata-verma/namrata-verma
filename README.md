@@ -77,6 +77,6 @@ Strategic PMO & digital transformation practitioner with hands-on experience del
 ## 📌 Open to
 
 - Project Managemnt or Program Management
-- Digital transformation
+- Digital transformation, IT governance
 - Analyst
 - Consultant
